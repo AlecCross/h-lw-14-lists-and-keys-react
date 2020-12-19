@@ -1,11 +1,6 @@
-import City from './city/classCity'
-
-let harkiv = new City(
-    'Харьков', 1654, 1443207, 350.05,
-    'https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Coat_of_arms_of_Kharkiv.svg/800px-Coat_of_arms_of_Kharkiv.svg.png');
-let kryvyiRih = new City(
-    'Кривой Рог', 1775, 619278, 430,
-    'https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Coat_of_Arms_of_Kryvyi_Rih.svg/800px-Coat_of_Arms_of_Kryvyi_Rih.svg.png');
+import City from './city/classCity';
+import harkiv from './citiesData/harkiv';
+import kryvyiRih from './citiesData/kryvyiRih';
 
  let cities = [
         // "Припять", 
