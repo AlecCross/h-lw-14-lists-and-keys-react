@@ -1,0 +1,25 @@
+.emblem {
+  max-width: 180px;
+  margin: 0px auto;
+  padding: 0px 15px;
+  border-radius: 5px;
+}
+
+@media (max-width: 640px) {
+  .emblem {
+    max-width: 80px;
+  }
+}
+
+@media (max-width: 575px) {
+  .emblem {
+    max-width: 40px;
+  }
+}
+
+@media (max-width: 490px) {
+  .emblem {
+    /* max-width: none; */
+    min-width: 10px;
+  }
+}
