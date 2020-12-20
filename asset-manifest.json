@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AlecCross/h-lw-14-lists-and-keys-react.git/static/css/main.528f4dfe.chunk.css",
+    "main.js": "/AlecCross/h-lw-14-lists-and-keys-react.git/static/js/main.4443507d.chunk.js",
+    "main.js.map": "/AlecCross/h-lw-14-lists-and-keys-react.git/static/js/main.4443507d.chunk.js.map",
+    "runtime-main.js": "/AlecCross/h-lw-14-lists-and-keys-react.git/static/js/runtime-main.22035dd9.js",
+    "runtime-main.js.map": "/AlecCross/h-lw-14-lists-and-keys-react.git/static/js/runtime-main.22035dd9.js.map",
+    "static/js/2.894b6b53.chunk.js": "/AlecCross/h-lw-14-lists-and-keys-react.git/static/js/2.894b6b53.chunk.js",
+    "static/js/2.894b6b53.chunk.js.map": "/AlecCross/h-lw-14-lists-and-keys-react.git/static/js/2.894b6b53.chunk.js.map",
+    "static/js/3.6d31f176.chunk.js": "/AlecCross/h-lw-14-lists-and-keys-react.git/static/js/3.6d31f176.chunk.js",
+    "static/js/3.6d31f176.chunk.js.map": "/AlecCross/h-lw-14-lists-and-keys-react.git/static/js/3.6d31f176.chunk.js.map",
+    "index.html": "/AlecCross/h-lw-14-lists-and-keys-react.git/index.html",
+    "static/css/main.528f4dfe.chunk.css.map": "/AlecCross/h-lw-14-lists-and-keys-react.git/static/css/main.528f4dfe.chunk.css.map",
+    "static/js/2.894b6b53.chunk.js.LICENSE.txt": "/AlecCross/h-lw-14-lists-and-keys-react.git/static/js/2.894b6b53.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22035dd9.js",
+    "static/js/2.894b6b53.chunk.js",
+    "static/css/main.528f4dfe.chunk.css",
+    "static/js/main.4443507d.chunk.js"
+  ]
+}
