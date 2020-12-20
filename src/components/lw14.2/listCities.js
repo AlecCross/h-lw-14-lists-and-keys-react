@@ -1,8 +1,9 @@
 import CityComponent from './city/City';
 import country from './classCountry';
 
-let listCities = country.cities.map((city) =>
+let listCities = country.cities.map((city, index) =>
         <CityComponent
+            key = {index}
             cityName={city.cityName}
             yearOfFoundation={city.yearOfFoundation}
             population={city.population}
