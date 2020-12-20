@@ -9,6 +9,7 @@ let CountryCities = (props) => {
             <p>Кол-во населения:  {props.population}</p>
             <p>Общая площадь:     {props.cityArea}</p>
             <p>Дата основания:    {props.yearOfFoundation}</p>
+            <a href={props.cityLink} alt='Ссылка на город'>Ссылка</a>
         </div>
     )
 }

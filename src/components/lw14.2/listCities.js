@@ -7,6 +7,7 @@ let listCities = country.cities.map((city) =>
             yearOfFoundation={city.yearOfFoundation}
             population={city.population}
             cityArea={city.cityArea}
-            emblem={city.emblem} />)
+            emblem={city.emblem} 
+            cityLink={city.cityLink}/>)
 
 export default listCities

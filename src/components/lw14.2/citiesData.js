@@ -1,4 +1,3 @@
-import City from './city/classCity';
 import harkiv from './citiesData/harkiv';
 import kryvyiRih from './citiesData/kryvyiRih';
 
